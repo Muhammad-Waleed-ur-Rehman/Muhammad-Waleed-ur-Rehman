@@ -105,6 +105,24 @@ Audit & Risk  ██████████ 90%
 
 ---
 
+# 📡 Live Activity & Interactive Zone
+
+## 📊 GitHub Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Waleed-ur-Rehman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Pinned Projects
+
+[![Adal Nexus](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-ur-Rehman&repo=Adal-Nexus&theme=tokyonight)]()
+
+---
+
 # 📚 Currently Learning
 
 - Solidity Development  
@@ -114,19 +132,6 @@ Audit & Risk  ██████████ 90%
 - Machine Learning & Deep Learning  
 - Web3 Development  
 - AI Engineering  
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Adal Nexus
-AI-powered platform focused on automation and intelligent systems.
-
-## 🔹 Blockchain Projects
-Smart contracts & Ethereum-based experiments.
-
-## 🔹 AI/Data Projects
-ML, DL, NLP, Computer Vision & Time Series work.
 
 ---
 
@@ -181,6 +186,18 @@ Open to:
 
 - LinkedIn: https://www.linkedin.com/in/muhammad-waleed-rehman  
 - Email: waleedrehman20197@gmail.com  
+
+---
+
+# ⚡ Live Status
+
+![Status](https://img.shields.io/badge/Status-Currently%20Building%20AI%20Agents-brightgreen)
+
+---
+
+# 💬 Ask Me Anything
+
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-blueviolet)](mailto:waleedrehman20197@gmail.com)
 
 ---
 
