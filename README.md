@@ -4,6 +4,8 @@
 
 ### Audit Professional transitioned into AI, Blockchain & Web3
 
+> **“I build AI + Web3 systems that turn complex financial & data problems into automated, intelligent solutions.”**
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F72D&center=true&vCenter=true&width=800&lines=AI+%26+Blockchain+Enthusiast;Smart+Contract+Learner;Future+AI+Engineer;Web3+Explorer;AI+Agents+%26+Automation;Auditor+Turned+Tech+Guy" />
 </p>
@@ -24,6 +26,32 @@
 - 💡 Goal: Build intelligent and secure systems  
 - 🚀 Transitioning into emerging technologies  
 - 🧠 Focused on future-ready skills  
+
+---
+
+# ⚡ My Edge
+
+I bridge the gap between traditional finance & emerging tech:
+
+**Audit & Assurance + AI + Blockchain = Intelligent, automated, and secure financial systems**
+
+---
+
+# 🎯 Problem Areas I Focus On
+
+- Automating audit & compliance workflows using AI  
+- Reducing financial reporting errors using ML  
+- Building secure smart contracts for Web3 apps  
+- Designing data-driven decision systems for businesses  
+
+---
+
+# 🚀 What I'm Currently Building
+
+- 🤖 AI Agent for audit automation workflows  
+- ⛓️ Smart contract security sandbox (Solidity)  
+- 📊 Finance + AI analytics dashboard prototype  
+- 🧪 Experimental Web3 learning projects  
 
 ---
 
@@ -63,6 +91,17 @@ Python • JavaScript • HTML • CSS • Git • GitHub • VS Code
 - Power BI
 - ERP Systems
 - AI Tools (ChatGPT, etc.)
+
+---
+
+# 📊 Skill Snapshot
+
+Python        █████████░ 80%  
+AI/ML         ████████░░ 70%  
+Blockchain    ███████░░░ 65%  
+Solidity      ██████░░░░ 55%  
+Data Analytics █████████░ 80%  
+Audit & Risk  ██████████ 90%
 
 ---
 
@@ -119,6 +158,25 @@ ML, DL, NLP, Computer Vision & Time Series work.
 
 ---
 
+# 🚀 Career Direction
+
+- AI Engineer (Finance + Automation domain)  
+- Web3 / Blockchain Developer  
+- AI Agent Developer  
+- Smart Contract Security Analyst  
+
+---
+
+# 🤝 Let’s Build Something
+
+Open to:
+- AI + Finance projects  
+- Web3 collaborations  
+- Smart contract security research  
+- Freelance / remote opportunities  
+
+---
+
 # 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/muhammad-waleed-rehman  
@@ -134,7 +192,7 @@ From auditing financial systems to exploring decentralized systems — same dete
 
 # 💭 Philosophy
 
-> Technology changes fast. Learning and adapting is the real advantage.
+> “I don’t see finance and tech as separate worlds — I see them as layers of the same system waiting to be optimized.”
 
 ---
 
