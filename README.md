@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Waleed Ur Rehman
+# Hi 👋, I'm M. Waleed Ur Rehman
 
 ## 🚀 Auditor → AI Engineer → Web3 Builder
 
